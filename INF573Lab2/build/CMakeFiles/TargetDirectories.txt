@@ -1,0 +1,3 @@
+/Users/weixiang/Downloads/INF573Lab2/build/CMakeFiles/rebuild_cache.dir
+/Users/weixiang/Downloads/INF573Lab2/build/CMakeFiles/edit_cache.dir
+/Users/weixiang/Downloads/INF573Lab2/build/CMakeFiles/canny.dir
